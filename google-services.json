@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379360447459",
+    "project_id": "rista-ono-4c0f1",
+    "storage_bucket": "rista-ono-4c0f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379360447459:android:29ba1dbc18bd431be0aed6",
+        "android_client_info": {
+          "package_name": "com.rista.ono"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjMZBhqbDgWMD6eRbHdQVMzSnnyT7DzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
